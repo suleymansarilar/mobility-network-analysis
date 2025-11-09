@@ -1,0 +1,10 @@
+{
+  "num_nodes": 2,
+  "num_edges": 1,
+  "density": 1.0,
+  "average_degree": 1.0,
+  "is_connected": true,
+  "num_connected_components": 1,
+  "average_shortest_path_length": 347.2749436184628,
+  "average_clustering": 0.0
+}
