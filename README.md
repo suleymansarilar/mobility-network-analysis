@@ -2,7 +2,6 @@
 
 A Python project that extracts building connectivity networks from CityGML data to demonstrate transportation/mobility network analysis concepts. This project showcases computational approaches in infrastructure planning and network optimization.
 
-**Research Alignment (WPI - Dr. Lindsay Graff):**
 - Network optimization in multi-modal transportation systems
 - Computational approaches to infrastructure planning
 - Graph-based analysis of connectivity and accessibility
@@ -279,12 +278,6 @@ This project demonstrates:
 MIT License
 
 ---
-
-## 🙏 Acknowledgments
-
-This project was developed as part of PhD application preparation for:
-- **WPI - Dr. Lindsay Graff** (Transportation Systems & Network Optimization)
-- Research alignment: Multi-modal transportation systems, infrastructure planning, network optimization
 
 ---
 
